@@ -1,7 +1,7 @@
 var express = require('express');
  var router = express.Router();
 
-<<<<<<< HEAD
+HEAD
 
 
  // 接続情報を設定
